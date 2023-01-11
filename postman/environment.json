@@ -4,32 +4,32 @@
   "values": [
     {
       "key": "serviceUrl",
-      "value": "",
+      "value": "http://localhost:8080",
       "enabled": true
     },
     {
       "key": "identityProviderUrl",
-      "value": "",
+      "value": "https://dev-71741751.okta.com",
       "enabled": true
     },
     {
       "key": "username",
-      "value": "",
+      "value": "dvasev09@gmail.com",
       "enabled": true
     },
     {
       "key": "password",
-      "value": "",
+      "value": "12345qwe!",
       "enabled": true
     },
     {
       "key": "clientId",
-      "value": "",
+      "value": "0oa7x3dqpjjTQ3bjf5d7",
       "enabled": true
     },
     {
       "key": "clientSecret",
-      "value": "",
+      "value": "GMCXhiPJebtRWEnUEvaGjuW_GKDVvyhzoeTnstDb",
       "enabled": true
     }
   ],
