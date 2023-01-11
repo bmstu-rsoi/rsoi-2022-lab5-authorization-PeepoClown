@@ -77,3 +77,8 @@ jobs:
           user_column: 'D'
           column_offset: 'F'
           mark: "'+"
+
+      - name: Stop containers
+        if: always()
+        continue-on-error: true
+        run: docker compose down -v
