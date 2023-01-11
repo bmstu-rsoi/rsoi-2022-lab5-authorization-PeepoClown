@@ -9,7 +9,7 @@
     },
     {
       "key": "identityProviderUrl",
-      "value": "https://dev-71741751.okta.com",
+      "value": "https://dev-71741751.okta.com/oauth2/default",
       "enabled": true
     },
     {
